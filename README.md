@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Alvin Aditya Rahman
 
 <!--
 **alviinaditya/alviinaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
